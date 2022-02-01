@@ -29,7 +29,7 @@
  
 ![Rohan-verma19 GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-verma19&show_icons=true&theme=radical&hide=issues)
 
-<img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-verma19&show_icons=true&theme=radical&locale=en&layout=compact"/>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-verma19&show_icons=true&theme=radical&locale=en&layout=compact"/>
 <!--
 **rohan-verma19/rohan-verma19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
