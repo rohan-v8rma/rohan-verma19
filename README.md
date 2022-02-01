@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi, I'm ROHAN VERMA <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="31x" alt="hi">
 <!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
 <!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
@@ -12,7 +11,6 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/rohan-verma-733746175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay taras" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17995368/rohan-verma01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15792553" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/BATMAN#7625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BATMAN#7625" height="30" width="40" /></a>
 </p>
 
@@ -29,9 +27,9 @@
 
  <p align="left"> <a href="https://github.com/rohan-verma19/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan-verma19&theme=dracula" alt="rohan-verma19" /></a> </p>
  
-![Rohan-verma19 GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-verma19&show_icons=true&theme=tokyonight)
+![Rohan-verma19 GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-verma19&show_icons=true&theme=radical)
 
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-verma19&show_icons=true&theme=tokyonight&locale=en&layout=compact"/>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-verma19&show_icons=true&theme=radical&locale=en&layout=compact"/>
 <!--
 **rohan-verma19/rohan-verma19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
