@@ -25,11 +25,11 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
 
- <p align="left"> <a href="https://github.com/rohan-verma19/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan-verma19&theme=dracula" alt="rohan-verma19" /></a> </p>
+ <p align="left"> <a href="https://github.com/rohan-verma19/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan-verma19&theme=juicyfresh&title=Joined2020,Commits,Stars,PullRequest,Repositories" alt="rohan-verma19" /></a> </p>
  
-![Rohan-verma19 GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-verma19&show_icons=true&theme=radical)
+![Rohan-verma19 GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-verma19&show_icons=true&theme=radical&hide=issues)
 
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-verma19&show_icons=true&theme=radical&locale=en&layout=compact"/>
+<img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-verma19&show_icons=true&theme=radical&locale=en&layout=compact"/>
 <!--
 **rohan-verma19/rohan-verma19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
