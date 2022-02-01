@@ -27,7 +27,7 @@
 
  <p align="left"> <a href="https://github.com/rohan-verma19/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan-verma19&theme=juicyfresh&title=Joined2020,Commits,Stars,PullRequest,Repositories" alt="rohan-verma19" /></a> </p>
  
-![Rohan-verma19 GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-verma19&show_icons=true&theme=radical&hide=issues)
+![Rohan-verma19 GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-verma19&show_icons=true&theme=radical&hide=issues&cache_seconds=1800)
 
 <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-verma19&show_icons=true&theme=radical&locale=en&layout=compact"/>
 <!--
