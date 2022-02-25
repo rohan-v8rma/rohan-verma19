@@ -4,17 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-verma19&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-verma19" /> </p>
 
-🌱 I’m currently learning JavaScript.
+🌱 I’m currently learning HTML, CSS and JavaScript.
 
 ### Connect with me:
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/rohan-verma-733746175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay taras" height="40" width="50" /></a>
-<a href="https://discordapp.com/users/BATMAN#7625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BATMAN#7625" height="40" width="50" /></a>
+ <a href="https://www.linkedin.com/in/rohan-verma-733746175/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="Linkedin" alt="linkedin" height="50" width="50" />
+ </a>
+ <a href="https://discordapp.com/users/BATMAN#7625" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" title="Discord" alt="discord" height="70" width="70" />
+ </a>
 </p>
 
 ### Languages and Tools:
+
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width ="70" height="70"/>
 </a>
@@ -49,9 +53,13 @@
  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="javascript" width="70" height="70"/> 
 </a>
 
- <p align="left"> <a href="https://github.com/rohan-verma19/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan-verma19&theme=juicyfresh&title=Joined2020,Commits,Stars,PullRequest,Repositories" alt="rohan-verma19" /></a> </p>
- 
-![Rohan-verma19 GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-verma19&show_icons=true&theme=radical&hide=issues&cache_seconds=1800)
+<p align="left"> 
+ <a href="https://github.com/rohan-verma19/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohan-verma19&theme=radical&title=Joined2020,Commits,Stars,PullRequest,Repositories" alt="rohan-verma19" />
+ </a> 
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rohan-verma19&show_icons=true&theme=radical&hide=issues&cache_seconds=1800" />
 
 <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-verma19&show_icons=true&theme=radical&locale=en&layout=compact"/>
 <!--
