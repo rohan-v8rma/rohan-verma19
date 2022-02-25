@@ -51,7 +51,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="70" height="70"/> 
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" title="MySQL" alt="mysql" width="70" height="70"/> 
+ <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="mysql" width="110"/> 
 </a>
 
 <p align="left"> 
