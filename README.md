@@ -60,10 +60,10 @@
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="mysql" width="110"/> 
 </a>
 <a href="https://in.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLab" alt="matlab" width="70" height="70"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLab" alt="matlab" height="65"/> 
 </a>
 <a href="https://github.com/rohan-verma19/markdown-reference/blob/master/Markdown-Cheatsheet.md" target="_blank" rel="noreferrer">
-    <img src="markdown.png" title="Markdown" alt="markdown" width="70"/>
+    <img src="markdown.png" title="Markdown" alt="markdown" height="70"/>
 </a>
 
 <p align="left"> 
