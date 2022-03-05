@@ -62,6 +62,9 @@
 <a href="https://in.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLab" alt="matlab" width="70" height="70"/> 
 </a>
+<a href="https://github.com/rohan-verma19/markdown-reference/blob/master/Markdown-Cheatsheet.md" target="_blank" rel="noreferrer">
+    <img src="markdown.png" title="Markdown" alt="markdown" width="70"/>
+</a>
 
 <p align="left"> 
  <a href="https://github.com/rohan-verma19/github-profile-trophy">
