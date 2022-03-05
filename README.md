@@ -37,7 +37,13 @@
 </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="70" height="70"/> 
-</a> 
+</a>
+<a href="https://ubuntu.com/ target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" alt="ubuntu" width="70" height="70"/> 
+</a>
+<a href="http://www.lxde.org/" target="_blank" rel="noreferrer"> 
+    <img src="LXDE.png" title="LXDE" alt="lxde" width="70" height="70"/> 
+</a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" title="Bash" alt="bash" width="70" height="70"/> 
 </a>
